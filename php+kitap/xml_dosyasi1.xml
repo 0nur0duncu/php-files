@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bilgiler>
+    <personel>
+        <adSoyad>ibrahim Çevruk</adSoyad>
+        <departman>Yazılım Destek Uzmanı</departman>
+    </personel>
+
+    <personel>
+        <adSoyad>Ömer Yücel</adSoyad>
+        <departman>Muhasebe</departman>
+    </personel>
+
+    <personel>
+        <adSoyad>Ceylin Çevruk</adSoyad>
+        <departman>Pazarlama</departman>
+    </personel>
+</bilgiler>
