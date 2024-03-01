@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<takimlar>
+      <fenerbahce>
+            <kurulusYili>1919</kurulusYili>
+            <oyuncuSayisi>15</oyuncuSayisi>
+            <yedekSayisi>4</yedekSayisi>
+      </fenerbahce>
+      <galatasaray>
+            <kurulusYili>1940</kurulusYili>
+            <oyuncuSayisi>16</oyuncuSayisi>
+            <yedekSayisi>5</yedekSayisi>
+      </galatasaray>
+      <trabzonspor>
+            <kurulusYili>1956</kurulusYili>
+            <oyuncuSayisi>14</oyuncuSayisi>
+            <yedekSayisi>3</yedekSayisi>
+      </trabzonspor>
+      <besiktas>
+            <kurulusYili>1920</kurulusYili>
+            <oyuncuSayisi>15</oyuncuSayisi>
+            <yedekSayisi>4</yedekSayisi>
+      </besiktas>
+      <kaptan>
+            <k id="1">ali</k>
+            <k id="2">veli</k>
+            <k id="3">ferhat</k>
+      </kaptan>
+      <aciklama>
+            <![CDATA[Bu takimlarla ilgili aciklamadir.]]>
+      </aciklama>
+</takimlar>
